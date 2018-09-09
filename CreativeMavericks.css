@@ -1,0 +1,159 @@
+/* CSS Document */
+.title30 {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-variant: normal;
+	vertical-align: middle;
+	text-align: center;
+	color: #31418C;
+	}
+	
+.links {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	color: #31418C;
+	font-style: normal;
+	font-weight: bold;
+	vertical-align: top;
+	top: auto;
+	}
+	
+.centerlink {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	color: #31418C;
+	font-style: normal;
+	font-weight: bold;
+	vertical-align: top;
+	text-align: center;
+	top: auto;
+	}
+	
+.body {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	text-align: left;
+	}
+
+.bodybold {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	}
+	
+.footing {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 18px;
+	color: #31418C;
+	text-align: center;
+	}
+.poetry {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.author {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
+	text-align: right;
+}
+.book {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: underline;
+}
+.list {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	list-style-type: disc;
+}
+.heading14 {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	text-align: right;
+}
+.reference {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
+}
+.title14 {
+
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	color: #31418C;
+	font-weight: bold;
+}
+.T_sidebar {
+	vertical-align: middle;
+	text-align: center;
+}
+
+.body_blue {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	color: #31418C;
+	border-color: #31418C;
+	border-width: 2;
+	border-top-color: #31418C;
+	border-right-color: #31418C;
+	border-bottom-color: #31418C;
+	border-left-color: #31418C;
+	border-bottom-style: solid;
+	border-right-style: solid;
+	border-top-style: solid;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+}
+.Beez {
+	font-family: Tahoma, "Times New Roman";
+}
+.CBImage {
+	color: #31418C;
+	border-color: #31418C;
+	border-style: solid;
+	border-width: 3;
+}
+.quotation {
+
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 14px;
+	text-align: center;
+}
+
+.title30i {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: none;
+	font-variant: normal;
+	color: #31418C;
+	text-align: left;
+}
+
+.title40 {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	color: #31418C;
+	text-align: center;
+}
+.title40cap {
+	font-family: "Comic Sans MS", Tahoma, "Arial Black", Verdana, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #31418C;
+}
